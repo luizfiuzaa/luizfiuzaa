@@ -7,8 +7,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luizfiuzaa&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=luizfiuzaa&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfiuzaa&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=luizfiuzaa&theme=gotham&hide_border=false)
 
 
 ### ✍️ Random Dev Quote
