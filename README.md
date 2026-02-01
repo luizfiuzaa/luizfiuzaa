@@ -1,4 +1,4 @@
-# <img alt="penguin" src="./assets/gopher-glasses.png" width="30px" /> About Me
+# <img alt="gopher" src="./assets/gopher-glasses.png" width="30px" /> About Me
  Graduated in Systems Analysis and Development and Technician in Systems Development. Always looking to know new technologies and subjects. Feel free to look at my projects 😌
 
 # 💻 Tech Stack:
