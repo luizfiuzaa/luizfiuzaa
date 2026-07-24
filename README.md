@@ -15,4 +15,4 @@
 <br />
 
 # 📄 Published
-- _Ensino de Programação com Gamificação e IA: Aprendizado Personalizado,_ **Revista Perspectiva,** v.14, n.27 ([read](https://fatecitapetininga.edu.br/sif/perspectiva/pdf/27/e27artigo%20(17).pdf))
+- **Ensino de Programação com Gamificação e IA: Aprendizado Personalizado,** _Revista Perspectiva,_ v.14, n.27 ([read](https://fatecitapetininga.edu.br/sif/perspectiva/pdf/27/e27artigo%20(17).pdf))
